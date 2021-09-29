@@ -1,0 +1,40 @@
+/home/artur/local/src/VHDLs/somador2bits.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/somador2bits.vhd
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador2bits
+-- Compiling architecture som2b_imp of somador2bits
+
+} {} {}} /home/artur/local/src/VHDLs/ghdl-systemc-fosdem16/counter.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/ghdl-systemc-fosdem16/counter.vhdl
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Compiling entity counter
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling architecture behav of counter
+
+} {} {}} /home/artur/local/src/VHDLs/somador.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/somador.vhd
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador_completo
+-- Compiling architecture som_imp of somador_completo
+
+} {} {}} /home/artur/local/src/VHDLs/somador_loop.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/somador_loop.vhd
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package constantes
+-- Compiling entity somador_loop
+-- Compiling architecture som2b_imp of somador_loop
+
+} {} {}} /home/artur/local/src/VHDLs/padroes.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/padroes.vhd
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Compiling package constantes
+
+} {} {}}

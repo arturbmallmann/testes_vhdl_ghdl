@@ -1,0 +1,32 @@
+/home/artur/local/src/VHDLs/test_bench1/somador2bits.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/test_bench1/somador2bits.vhd
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador2bits
+-- Compiling architecture som2b_imp of somador2bits
+
+} {} {}} /home/artur/local/src/VHDLs/test_bench1/somador.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/test_bench1/somador.vhd
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador_completo
+-- Compiling architecture som_imp of somador_completo
+
+} {} {}} /home/artur/local/src/VHDLs/test_bench1/padroes.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/test_bench1/padroes.vhd
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Compiling package constantes
+
+} {} {}} /home/artur/local/src/VHDLs/test_bench1/test_bench.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/artur/local/src/VHDLs/test_bench1/test_bench.vhd
+QuestaSim-64 vcom 10.6e Compiler 2018.06 Jun 22 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package constantes
+-- Loading package NUMERIC_STD
+-- Compiling entity test_bench_e
+-- Compiling architecture test_bench of test_bench_e
+
+} {} {}}
